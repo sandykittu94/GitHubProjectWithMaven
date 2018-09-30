@@ -3,7 +3,11 @@
 <suite name="Suite">
   <test thread-count="5" name="Test">
     <classes>
+<<<<<<< HEAD
       <class name="hello.GitHubProjectWithMaven.AppTest"/>
+=======
+   
+>>>>>>> c81526a9c0926a94126299594752ddb62e9319f8
        <class name="com.citibank.login.HelloWorld" />
     </classes>
   </test> <!-- Test -->
